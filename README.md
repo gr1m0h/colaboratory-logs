@@ -1,1 +1,1 @@
-# colab-logs
+# colaboratory-logs
